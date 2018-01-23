@@ -1,0 +1,5 @@
+/home/ubuntu/maven/docker-maven/jdk-8/spring-maven-sample/src/main/java/com/jeromejaglale/config/ServletInitializer.java
+/home/ubuntu/maven/docker-maven/jdk-8/spring-maven-sample/src/main/java/com/jeromejaglale/config/AppConfig.java
+/home/ubuntu/maven/docker-maven/jdk-8/spring-maven-sample/src/main/java/com/jeromejaglale/service/CarService.java
+/home/ubuntu/maven/docker-maven/jdk-8/spring-maven-sample/src/main/java/com/jeromejaglale/controller/CarController.java
+/home/ubuntu/maven/docker-maven/jdk-8/spring-maven-sample/src/main/java/com/jeromejaglale/domain/Car.java
